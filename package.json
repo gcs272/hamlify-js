@@ -1,0 +1,13 @@
+{
+    "name": "hamlify-js",
+    "description": "haml browserify transform",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gcs272/hamlify-js"
+    },
+    "dependencies": {
+        "haml": "~0.4.3", 
+        "through": "~2.3.4"
+    }
+}
